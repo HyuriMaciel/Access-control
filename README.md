@@ -8,4 +8,4 @@ This paper presents an embedded system for access control in restricted area thr
 
 ## License :lock_with_ink_pen:
 
-This project is under the MIT license
+This project is under the MIT license [INFO](https://github.com/HyuriMaciel/Access-control/pull/1/commits/90944f09308aeea4f613b6cd8aec4fcd8989c5ba)
