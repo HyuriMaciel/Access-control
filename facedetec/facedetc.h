@@ -1,14 +1,8 @@
 
 /**
- * @file stats 
- * @brief Functions the print in screen calculus statistcs of matrix 
- *
- * The functions of this header have the purpose of calculating some statistical
- * metrics of a one-dimensional matrix, printing these values on the screen, 
- * as well as performing the ordering in decreasing order of the matrix.
- *
+*
  * @author hyuri Maciel 
- * @date 1 Jun 2020
+ * @date 1 may 2016
  *
  */
 #ifndef __STATS_H__
