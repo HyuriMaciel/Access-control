@@ -6,7 +6,7 @@ For more information, see the articles (Results) below.
 
 ## Folders Organization :file_folder:
  - :open_file_folder: [facedetec](https://github.com/HyuriMaciel/Access-control/tree/master/facedetec): Contains the codes that perform facial detection and recognition, the codes were implemented in a BeagleBone Black microcontroller, using the OpenCV library and C ++ language.
- - :open_file_folder: [rfidControl](https://github.com/HyuriMaciel/Access-control/tree/master/rfidControl)contains the codes that perform the access control by means of an Arduino UNO microcontroller using an RFID reader and a magnetic lock to sign the door lock.
+ - :open_file_folder: [rfidControl](https://github.com/HyuriMaciel/Access-control/tree/master/rfidControl) Contains the codes that perform the access control by means of an Arduino UNO microcontroller using an RFID reader and a magnetic lock to sign the door lock.
 
 ## Technologies used :minidisc:
  - Linguage: C, C++.
@@ -15,7 +15,8 @@ For more information, see the articles (Results) below.
 ## Components the system :hammer:
 |Item|Quant|Link|
 | -------- | -------- | -------- |
-|Arduino UNO|1|[Arduino](https://www.arduino.cc/)|
+|Arduino UNO| 1 |[Arduino](https://www.arduino.cc/)|
+|BeagleBone Black| 1 | [BeagleBone](https://beagleboard.org/black)|
 
 ## Results :notebook:
  - Puplications:
