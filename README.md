@@ -15,10 +15,23 @@ For more information, see the articles (Results) below.
  - librarys: OpenCV ...
  
 ## Components the system :hammer:
-|Item|Quant|Link|
+
+- Control Access
+|Item|Quant|Especification|
 | -------- | -------- | -------- |
 |Arduino UNO| 1 |[Arduino](https://www.arduino.cc/)|
+|Leito RFID|1|Rfid Mfrc522|
+|Display|1|[Datasheet](https://img.filipeflop.com/files/download/Datasheet_Display_16x2.pdf)|
+|Rele 5VDC|1|[Datasheet](https://img.filipeflop.com/files/download/Datasheet_Rele_5V.pdf)|
+|Trafo|1|Travo 220 Vac ~ 12Vac|
+|Potenciometro|1|10k|
+
+- Recagnition Face
+|Item|Quant|Especification|
+| -------- | -------- | -------- |
 |BeagleBone Black| 1 | [BeagleBone](https://beagleboard.org/black)|
+|Camera video|1|D-link- HD  Wire-less N Cube|
+
 
 ## Results :notebook:
  - Puplications:
