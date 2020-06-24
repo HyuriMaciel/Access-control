@@ -17,6 +17,7 @@ For more information, see the articles (Results) below.
 ## Components the system :hammer:
 
 - Control Access
+
 |Item|Quant|Especification|
 | -------- | -------- | -------- |
 |Arduino UNO| 1 |[Arduino](https://www.arduino.cc/)|
@@ -27,6 +28,7 @@ For more information, see the articles (Results) below.
 |Potenciometro|1|10k|
 
 - Recagnition Face
+
 |Item|Quant|Especification|
 | -------- | -------- | -------- |
 |BeagleBone Black| 1 | [BeagleBone](https://beagleboard.org/black)|
